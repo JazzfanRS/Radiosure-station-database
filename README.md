@@ -1,7 +1,7 @@
 # Radiosure-station-database 
 
 A place to share the RadioSure(RS) station database since the website and forums are gone.
-Github creates a zipfile because the database is too lerge for viewing/editing on the website.
+Github creates a zipfile because the database is too large for viewing/editing on the website.
 You can find discussions at https://www.reddit.com/r/RADIOSURE/ 
 
 If you use this database and modify it for your own applications other then RS please label them as such and keep this root for RadioSure only.
