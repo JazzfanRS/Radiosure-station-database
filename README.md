@@ -1,8 +1,7 @@
 # Radiosure-station-database 
 
-A place to share the RadioSure(RS) station database since the website and forums are gone.
-I believe (I'm new to github) that only .zip files will download in the normal fashion.
-You can find discussions at https://www.reddit.com/r/RADIOSURE/ 
+A place to share the RadioSure(RS) station database since the website and forums are gone. Upload zipfiles only please.
+You can find discussions at https://www.reddit.com/r/RADIOSURE/ as well as here.
 
 If you use this database and want to share how you modified it for a different application other than RadioSure, please create a fork from the root project (for radiosure only) and make note of that in the upload description. 
 
