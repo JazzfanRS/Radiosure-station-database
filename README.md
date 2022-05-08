@@ -1,4 +1,5 @@
 # Radiosure-station-database
 Streaming radio station database used by RadioSure.
 
-Join the discussion @ https://www.reddit.com/r/RADIOSURE/
+Visit https://www.reddit.com/r/RADIOSURE/
+for general chat and discussions.
