@@ -5,4 +5,4 @@ Radiosure.com is still registered (and parked as of January 2024) and will redir
 
 A solution has been created by RadioSure enthusiasts and have set up https://radiosure.fr to set up automatic updating again. I have no part in the operation of the website.
 
-Edited January 2024 (Deleted original repository to remove user associations and replicated the main branch to archive original files)
+Edited May 2024
